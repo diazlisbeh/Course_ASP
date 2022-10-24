@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "UAp5Ill2f55STo8D+wj6orR0Gjm0f+pxgpnY4cd9/Dg=",
+  "Hash": "lWYkKZsyQA7QEjGpaPzL3S+DcN0Djd9+O6tY9v2EGSY=",
   "Source": "ASP.NET",
   "BasePath": "_content/ASP.NET",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/home/lisbeth/Class/C#/ASP.NET/obj/Debug/net6.0/scopedcss/projectbundle/ASP.NET.bundle.scp.css"
+    },
+    {
+      "Identity": "/home/lisbeth/Class/C#/ASP.NET/wwwroot/css/SchoolIndex.css",
+      "SourceId": "ASP.NET",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/lisbeth/Class/C#/ASP.NET/wwwroot/",
+      "BasePath": "_content/ASP.NET",
+      "RelativePath": "css/SchoolIndex.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/SchoolIndex.css"
     },
     {
       "Identity": "/home/lisbeth/Class/C#/ASP.NET/wwwroot/css/site.css",

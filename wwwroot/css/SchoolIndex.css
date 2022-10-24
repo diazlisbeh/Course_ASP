@@ -1,0 +1,6 @@
+.card-container{
+    display: inline-block;
+    justify-content: space-around;
+    flex-direction: column;
+    
+}

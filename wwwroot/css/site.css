@@ -16,3 +16,10 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.card-container{
+    display: inline-block;
+    justify-content: space-around;
+    flex-direction: column;
+    margin: .5rem 1.5rem;
+}

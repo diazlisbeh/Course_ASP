@@ -11,7 +11,8 @@ namespace ASP.NET.Controllers
             _context = contesxt;
         }
         public IActionResult Index(){
-            return View(_context.Schools.First());
+            var list = _context.Schools.ToList();
+            return View(list);
         }
         [Route("School/Index/{id}")]
         public IActionResult Index( int id){
