@@ -1,0 +1,15 @@
+@* @model List<School> *@
+
+@{
+    ViewData["Tittle"] = "All Schools";
+}
+
+
+@foreach (var item in @Model)
+{
+    <h3>@item.Name</h3>
+    <p>@item.Country</p>
+    <p>@item.City</p>
+    <p>Todos los derechos reservados; @item.Id</p>
+    
+}

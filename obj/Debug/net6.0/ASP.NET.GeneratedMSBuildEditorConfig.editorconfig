@@ -1,0 +1,68 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ASP.NET
+build_property.RootNamespace = ASP.NET
+build_property.ProjectDir = /home/lisbeth/Class/C#/ASP.NET/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /home/lisbeth/Class/C#/ASP.NET
+build_property._RazorSourceGeneratorDebug = 
+
+[/home/lisbeth/Class/C\#/ASP.NET/Views/Asignatura/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXNpZ25hdHVyYS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/lisbeth/Class/C\#/ASP.NET/Views/Cursos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ3Vyc29zL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/lisbeth/Class/C\#/ASP.NET/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/lisbeth/Class/C\#/ASP.NET/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/lisbeth/Class/C\#/ASP.NET/Views/School/AllSchools.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2Nob29sL0FsbFNjaG9vbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/lisbeth/Class/C\#/ASP.NET/Views/School/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2Nob29sL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/lisbeth/Class/C\#/ASP.NET/Views/School/Cursitos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2Nob29sL0N1cnNpdG9zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/lisbeth/Class/C\#/ASP.NET/Views/School/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2Nob29sL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/lisbeth/Class/C\#/ASP.NET/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/lisbeth/Class/C\#/ASP.NET/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/lisbeth/Class/C\#/ASP.NET/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/lisbeth/Class/C\#/ASP.NET/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/lisbeth/Class/C\#/ASP.NET/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-xwhpwevzrf
