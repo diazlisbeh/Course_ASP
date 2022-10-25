@@ -1,10 +1,20 @@
+@model List<School>
 @{
     ViewData["Title"] = "Escuela";
 }
 <link href="SchoolIndex.css" rel="stylesheet" type="text/css" />
 
 <h1>Todas las escuelas</h1>
+<script runat="server">
+     void onClick(EventArgs e)
+    {
+        // When the button is clicked,
+        // change the button text, and disable it.
 
+        
+    }
+
+</script>
 @foreach (var item in Model)
 {
     <div class="card card-container" style="width: 18rem;">
@@ -13,8 +23,10 @@
             <p class="card-text">@item.Country</p>
             <p class="card-text">@item.TypeSchool</p>
             <p class="card-text">@item.Id</p>
-            <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
-  Edit
+            <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal"
+            
+              runat="server">
+  Edit 
 </button>
             <button type="button" class="btn btn-danger">Delete</button>
         </div>
@@ -32,7 +44,8 @@
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
       <div class="modal-body">
-        ...
+        @* <partial name="_Edit"></partial> *@
+        <p>@Model.First()</p>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
